@@ -1,0 +1,10 @@
+[
+  {"name": "bug",     "color": "d8080b"},
+  {"name": "request", "color": "0e8a16"},
+  {"name": "chore",   "color": "fbca04"},
+  {"name": "tests",   "color": "f57402"},
+  {"name": "docs",    "color": "1d76db"},
+  {"name": "help",    "color": "9b33bb"},
+  {"name": "has-examples", "color": "eee"},
+  {"name": "has-docs", "color": "eee"},
+]
